@@ -18,4 +18,4 @@ Dependencies
 Ensure you have the following dependencies installed:
 
 Python 3.x
-TensorFlow (or Keras)
+TensorFlow 2.15.1
